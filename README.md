@@ -4,16 +4,6 @@ This repository contains a comprehensive project that applies machine learning a
 
 ---
 
-## **Table of Contents**
-1. [Overview](#overview)
-2. [Project Workflow](#project-workflow)
-3. [Implemented Models](#implemented-models)
-4. [Setup and Usage](#setup-and-usage)
-5. [Results and Analysis](#results-and-analysis)
-6. [Future Enhancements](#future-enhancements)
-
----
-
 ## **Overview**
 
 Weather image classification is a challenging task due to the subtle differences between certain weather conditions. This project employs a variety of deep learning models, ranging from custom neural networks to pre-trained MobileNetV2, to achieve state-of-the-art classification performance. The pipeline includes:
@@ -80,11 +70,11 @@ Weather image classification is a challenging task due to the subtle differences
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/weather-image-classification.git
+   git clone https://github.com/jasminehuynh11/Weather-Classification-CNN.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd weather-image-classification
+   cd Weather-Classification-CNN
    ```
 3. Install the required dependencies:
    ```bash
@@ -120,4 +110,3 @@ Weather image classification is a challenging task due to the subtle differences
 - Explore additional pre-trained models (e.g., ResNet, EfficientNet).
 - Deploy the best-performing model as a web application using Streamlit or Flask.
 - Integrate additional evaluation metrics like F1-score and confusion matrices.
-
